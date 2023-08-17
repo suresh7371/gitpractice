@@ -1,3 +1,4 @@
 devops master
 git commands
 aws static architucture
+linux softwear installation
