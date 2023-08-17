@@ -8,3 +8,4 @@ fetch detail
 suresh fetch
 demonstrate authority
 dont accept the authority
+jenkins training
