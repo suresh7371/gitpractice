@@ -9,3 +9,4 @@ suresh fetch
 demonstrate authority
 dont accept the authority
 jenkins training
+argocd training
