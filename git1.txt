@@ -10,3 +10,4 @@ demonstrate authority
 dont accept the authority
 jenkins training
 argocd training
+send my respect wishes
