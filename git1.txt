@@ -1,2 +1,3 @@
 devops master
 git commands
+aws static architucture
