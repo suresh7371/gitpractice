@@ -3,3 +3,4 @@ git commands
 aws static architucture
 linux softwear installation
 countinue practice
+practice fetch2
